@@ -1,11 +1,15 @@
 # House-Prices-Prediction
 
+## Source
+
+This data set has been used in a Kaggle competition (https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+
 For this project we used the Ames housing data that was provided to us. The aim was to build a regression model that can predict the price of a house given its set of attributes.
 
 I started off by doing some exploratory data analysis to get a first-hand feel of how the data looks like and what pre-processing would be helpful.
 
 
-# Following are the steps that I followed:
+## Following are the steps that I followed:
 
 1.)	Through the EDA I found 1 variable “Garage_Yr_Blt”, having missing value so I planned to drop that.
 
@@ -36,7 +40,7 @@ I started off by doing some exploratory data analysis to get a first-hand feel o
 14.)	For every model I calculated the logarithmic prediction, transformed them back by taking the exponent and saved them to a text file.
 
 
-# Running Time: 
+## Running Time: 
 
 For Project 1 Part 1  on an average the script took 40 seconds to execute.
 
