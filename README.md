@@ -1,4 +1,4 @@
-# House-Prices-Prediction
+# Predict the Housing Prices in Ames(Kaggle)
 
 ## Source
 
