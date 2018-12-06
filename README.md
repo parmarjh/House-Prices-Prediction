@@ -1,6 +1,13 @@
 # Predict the Housing Prices in Ames(Kaggle)
 
-This Project was developed as a part of STAT 542 Practical Statistical Learning at University of Illinois, Urbana-Champaign.
+This Project was developed as a part of STAT 542 Practical Statistical Learning at University of Illinois, Urbana-Champaign. This project contains 2 parts:
+
+Part 1:Predict the Housing Prices in Ames
+Part 2:Implement Lasso using Coordinate Descent on the Ames housing data.
+
+## Programming Language:
+
+Python
 
 ## Source
 
@@ -47,3 +54,13 @@ I started off by doing some exploratory data analysis to get a first-hand feel o
 For Project 1 Part 1  on an average the script took 40 seconds to execute.
 
 For Project 1 Part 2 I found the running time to be 8.99 seconds.
+
+
+## Results:
+
+The RMSE of the models were <=0.110
+
+## Steps to Execute:
+
+Each part are contained in their own Folder. You will find Part1 and Part2 folder which contains their respective python and data files. Just execute them in a directory that has all those files.
+
