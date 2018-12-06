@@ -1,5 +1,7 @@
 # Predict the Housing Prices in Ames(Kaggle)
 
+This Project was developed as a part of STAT 542 Practical Statistical Learning at University of Illinois, Urbana-Champaign.
+
 ## Source
 
 This data set has been used in a Kaggle competition (https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
